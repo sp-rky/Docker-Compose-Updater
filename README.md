@@ -9,7 +9,7 @@ A very simple script that:
 
 ## Usage
 ```bash
-python3 docker-compose-updater.py /path/to/docker/compose
+python3 docker-compose-update.py /path/to/docker/compose
 ``` 
 
 ## Disclaimer
